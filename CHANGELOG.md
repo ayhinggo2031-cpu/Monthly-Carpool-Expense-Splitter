@@ -31,7 +31,7 @@
 - Added README.md with project description
 - Initial commit recorded
 
-## Version 1.1 – Documentation & Enhancements (2026-05-03)
+## Version 1.1 – Documentation & Enhancements (2026-05-04)
 - Uploaded main.py with full program logic
 - Expanded README.md with usage instructions
 - Added percentage breakdown feature
